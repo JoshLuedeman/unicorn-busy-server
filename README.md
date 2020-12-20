@@ -1,3 +1,5 @@
+This is a fork of the unicorn busy server. While the server in its current form is great, I have the need to add a web front-end to manually overide the status coming from Teams. In this fork I'm adding a basic HTML page to make the API calls. Once I get that where I want it to be, I will look at pushing that back in the form of a pull request.
+
 # Simple server for Raspberry Pi with Pimoroni Unicorn hat
 
 * [Introduction](#Introduction)
